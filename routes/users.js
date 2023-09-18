@@ -11,6 +11,10 @@ let users = [{
   id: 2,
   lastName: "Le",
   firstName: "A"
+}, {
+  id: 3,
+  lastName: "Nguyen",
+  firstName: "B"
 }
 ];
 /* GET users listing. */
