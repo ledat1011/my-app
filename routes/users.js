@@ -12,11 +12,11 @@ let users = [{
   lastName: "Le",
   firstName: "A"
 }, 
-// {
-//   id: 3,
-//   lastName: "Nguyen",
-//   firstName: "B"
-// }
+{
+  id: 3,
+  lastName: "Nguyen",
+  firstName: "B"
+}
 ];
 /* GET users listing. */
 router.get('/get-all', function (req, res, next) {
